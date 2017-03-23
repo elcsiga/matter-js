@@ -6419,7 +6419,7 @@ var Common = _dereq_('../core/Common');
 var Body = _dereq_('../body/Body');
 var Bounds = _dereq_('../geometry/Bounds');
 var Vector = _dereq_('../geometry/Vector');
-var decomp = (typeof window !== "undefined" ? window['decomp'] : typeof global !== "undefined" ? global['decomp'] : null);
+//var decomp = (typeof window !== "undefined" ? window['decomp'] : typeof global !== "undefined" ? global['decomp'] : null);
 
 (function() {
 
